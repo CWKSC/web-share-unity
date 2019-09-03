@@ -179,6 +179,8 @@
 
 ### 多人連線
 
+- [Unity - Manual: Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html)
+- [Unity - Manual: Setting up Unity Multiplayer](https://docs.unity3d.com/Manual/UnityMultiplayerSettingUp.html)
 - [[ Unity Multiplayer ] 多人連線遊戲概述 - 多面體工作室 Dometi](https://dometi.com.tw/blog/unity-multiplayer-overview/)
 - [[ UNet ] 基礎教學 #01 - 前置作業 - 多面體工作室 Dometi](https://dometi.com.tw/blog/unet-base-lesson-01/)
 - [Unity UNet 教學](http://www.cg.com.tw/UNet/)
