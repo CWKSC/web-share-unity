@@ -1,6 +1,12 @@
 # WebShare
 
-Ctrl + F may help ?
+此文章會不斷更新，歡迎進行貢獻。
+
+你可以使用 issue 或者 fork + push request 的方式請求修改。
+
+---
+
+Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 
 - Unity
 - Common 常用
