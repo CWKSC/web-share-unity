@@ -5,10 +5,27 @@
 
 ## Movement
 
+- ForwardAndRotate.cs
 - MoveXY.cs
 - MoveXZ.cs
 
-### MoveXY.cs
+### ForwardAndRotate.cs
+
+```C#
+public float forwardSpeed = 4;
+public float rotateSpeed = 120;
+void Update()
+{
+    transform.position += transform.TransformDirection(Vector3.forward * Input.GetAxis("Vertical") * Time.deltaTime * forwardSpeed);
+    transform.Rotate(Vector3.up * Input.GetAxis("Horizontal") * Time.deltaTime * rotateSpeed);
+}
+```
+
+use up and down to control forward and back.
+
+use left and right to control rotation.
+
+## MoveXY.cs
 
 ```C#
 public float xSpeed = 1;
