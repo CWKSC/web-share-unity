@@ -1,6 +1,6 @@
 # Script - Readme.md
 
-* Script
+* Movement
 * Position
 
 ## Movement
