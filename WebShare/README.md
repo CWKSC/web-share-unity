@@ -79,20 +79,16 @@ Ctrl + F may help ?
 - [Unity - Manual: Order of Execution for Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 - [Update、FixedUpdate 和 LateUpdate 的区别 - 简书](https://www.jianshu.com/p/7896024c4456)
 
+
+
 # Common 常用
 
 - [Unity Script 常用語法教學(unity課程入門學習筆記)](https://www.gameislearning.url.tw/article_content.php?getb=2&foog=9997)
 
+
+
 # Scripting Tutorials
 
-- ## IEnumerator
-  
-  - [Unity - Scripting API: MonoBehaviour.StartCoroutine](https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html)
-  - [Unity StartCoroutine 和 yield return 深入研究 - 追峰人 - 博客园](https://www.cnblogs.com/fly-100/p/3910515.html)
-  - [详解C# 迭代器 - yangecnu - 博客园](https://www.cnblogs.com/yangecnu/archive/2012/03/17/2402432.html)
-  - [Unity中协程(IEnumerator)的使用方法介绍 - 悲欢离合的博客 - CSDN博客](https://blog.csdn.net/beihuanlihe130/article/details/76098844)
-  - [Unity Coroutine 使用筆記](https://dev.twsiyuan.com/2017/05/unity-coroutine.html)
-  - [Unity3D製作計數器「StartCoroutine應用」 - a1455785的創作 - 巴哈姆特](https://home.gamer.com.tw/creationDetail.php?sn=2649394)
 - [Scripting - Unity](https://unity3d.com/learn/tutorials/s/scripting)
 - [GetAxis - Unity](https://unity3d.com/learn/tutorials/topics/scripting/getaxis?playlist=17117)
 - [Instantiate - Unity](https://unity3d.com/learn/tutorials/topics/scripting/instantiate?playlist=17117)
@@ -105,12 +101,25 @@ Ctrl + F may help ?
 - [Attributes - Unity](https://unity3d.com/learn/tutorials/topics/scripting/attributes?playlist=17117)
 - [Events - Unity](https://unity3d.com/learn/tutorials/topics/scripting/events?playlist=17117)
 
+- ## IEnumerator
+  
+  - [Unity - Scripting API: MonoBehaviour.StartCoroutine](https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html)
+  - [Unity StartCoroutine 和 yield return 深入研究 - 追峰人 - 博客园](https://www.cnblogs.com/fly-100/p/3910515.html)
+  - [详解C# 迭代器 - yangecnu - 博客园](https://www.cnblogs.com/yangecnu/archive/2012/03/17/2402432.html)
+  - [Unity中协程(IEnumerator)的使用方法介绍 - 悲欢离合的博客 - CSDN博客](https://blog.csdn.net/beihuanlihe130/article/details/76098844)
+  - [Unity Coroutine 使用筆記](https://dev.twsiyuan.com/2017/05/unity-coroutine.html)
+  - [Unity3D製作計數器「StartCoroutine應用」 - a1455785的創作 - 巴哈姆特](https://home.gamer.com.tw/creationDetail.php?sn=2649394)
+
+
+
 # Transform
 
 - [Unity - Scripting API: Transform](https://docs.unity3d.com/ScriptReference/Transform.html)
 - [Unity 一些方法、函式使用方式及解釋 – MLab](http://wp.mlab.tw/?p=2269)
 - [transform.transformDirection() 的作用 | 独立之路](http://vhshiwen.blogspot.com/2013/07/transformtransformdirection.html)
 - [Movement Basics - Unity Learn](https://learn.unity.com/tutorial/movement-basics?projectId=5c514956edbc2a002069467c)
+
+
 
 # Quaternion
 
@@ -132,7 +141,16 @@ Ctrl + F may help ?
 - [Unity - Scripting API: Input](https://docs.unity3d.com/ScriptReference/Input.html)
 - [Unity - Scripting API: Input.mousePosition](https://docs.unity3d.com/ScriptReference/Input-mousePosition.html)
 
+
+
 # UI
+
+- [User Interface (UI) - Unity](https://unity3d.com/cn/learn/tutorials/s/user-interface-ui)
+- [UI RectTransform - Unity](https://unity3d.com/learn/tutorials/modules/beginner/ui/rect-transform?playlist=17111)
+- [UI Events and Event Triggers - Unity](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-events-and-event-triggers?playlist=17111)
+- [Unity3D 教學．CG數位學習網](http://www.cg.com.tw/Unity/Content/Unity_23.php)
+- [Unity - Manual: Canvas](https://docs.unity3d.com/Manual/UICanvas.html)
+- [UI Canvas - Unity](https://unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
 
 * ## Canvas
 
@@ -155,19 +173,97 @@ Ctrl + F may help ?
 
     * #### Render Modes 渲染模式
 
+      * [Unity学习笔记——UGUI Canvas - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5b29bb886fb9a00e315c1f03)
+
+      * [unity 搞懂Canvas的Render Mode的三种模式 - fdyshlk的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/fdyshlk/article/details/78509909)
+
       * ##### Render Mode 公有属性
+
+        * ###### Additional Shader Channels
+
+          * [Unity - Scripting API: Canvas.additionalShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-additionalShaderChannels.html)
+          * [Unity - Scripting API: AdditionalCanvasShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.html)
+          * [None](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.None.html)
+          * [TexCoord1](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord1.html)
+          * [TexCoord2](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord2.html)
+          * [TexCoord3](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord3.html)
+          * [Normal](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Normal.html)
+          * [Tangent](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Tangent.html)
 
       * ##### Render Mode - Screen Space - Overlay 属性
 
+        * ###### Pixel Perfect
+
+          * [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
+          * [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
+
+        * ###### Sort Order
+
+          * [Unity - Scripting API: Canvas.sortingOrder](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingOrder.html)
+
+        * ###### Target Display
+
+          * [Unity - Scripting API: Canvas.targetDisplay](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-targetDisplay.html)
+
       * ##### Render Mode - Screen Space - Camera 属性
+
+        * ###### Pixel Perfect
+
+          * [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
+          * [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
+
+        * ###### Render Camera
+
+          * [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
+          * [unity3d - How to change the Canvas Render Camera via C# - Stack Overflow](https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/41172136/how-to-change-the-canvas-render-camera-via-c-sharp)
+
+        * ###### Plane Distance
+
+          * [Unity - Scripting API: Canvas.planeDistance](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-planeDistance.html)
+
+        * ###### Sorting Layer
+
+          * [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html)
+          * [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html)
+          * [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
+
+        * ###### Order in Layer
+
+          * （空的，暂时没有参考网站。）
 
       * ##### Render Mode - World Space 属性
 
+        * ###### Event Camera
+
+          * [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
+          * [How to set world space canvas event camera at runtime? - Unity Forum](https://link.zhihu.com/?target=https%3A//forum.unity.com/threads/how-to-set-world-space-canvas-event-camera-at-runtime.268044/)
+
+        * ###### Sorting Layer
+
+          * [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html) 
+          * [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html) 
+          * [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
+
+        * ###### Order in Layer
+
+          * （空的，暂时没有参考网站。）
+
     * #### Render Modes 下的渲染优先级
+
+      * [UGUI渲染优先级 - zhangzhen551的专栏 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/zhangzhen551/article/details/43938587)
+      * [UGUI学习（二）渲染模式和层级顺序 - nanzhengluo的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/nanzhengluo/article/details/72864599)
 
   * ### Canvas Scaler 組件
 
+    * [Unity - Manual: Canvas Scaler](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/script-CanvasScaler.html)
+    * [[UGUI\]深入理解Canvas Scaler - 安宁技术博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/inlet511/article/details/46822383)
+    * [Unity Canvas Scaler详解 - CheerseUp的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/a1459078670/article/details/78384129)
+
   * ### Graphic Raycaster 組件
+
+    * （空的，暂时没有参考网站。）
+
+    
 
 * ## Rect Transform
 
@@ -180,6 +276,8 @@ Ctrl + F may help ?
   * [Unity - Scripting API: RectTransform](https://docs.unity3d.com/ScriptReference/RectTransform.html)
   * [修改RectTransform的值 - 糯米粥 - 博客园](https://www.cnblogs.com/nsky/p/5045201.html)
   * [动态修改RectTransform的值 - ⎝⏠⏝⏠⎠ - CSDN博客](https://blog.csdn.net/qq_17758883/article/details/78568460)
+
+  
 
 * ## Text
 
@@ -212,13 +310,8 @@ Ctrl + F may help ?
   - [Unity UGUI Image 九宮格使用 血條設計 @ Weight遊戲作家 :: 痞客邦 ::](http://a032332852.pixnet.net/blog/post/280769818-unity-ugui-image-九宮格使用-血條設計)
   - [Unity UGUI基础之Image - 神码编程 - CSDN博客](https://blog.csdn.net/qq992817263/article/details/51754189)
   - [Unity3D UGUI 源码学习 Image | Aillieo Collection](https://aillieo.cn/post/2018-07-20-unity-3d-ugui-source-code-10/)
-
-- [User Interface (UI) - Unity](https://unity3d.com/cn/learn/tutorials/s/user-interface-ui)
-- [UI RectTransform - Unity](https://unity3d.com/learn/tutorials/modules/beginner/ui/rect-transform?playlist=17111)
-- [UI Events and Event Triggers - Unity](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-events-and-event-triggers?playlist=17111)
-- [Unity3D 教學．CG數位學習網](http://www.cg.com.tw/Unity/Content/Unity_23.php)
-- [Unity - Manual: Canvas](https://docs.unity3d.com/Manual/UICanvas.html)
-- [UI Canvas - Unity](https://unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
+  
+  
 
 # Camera
 
@@ -292,6 +385,8 @@ Ctrl + F may help ?
 - [Unity UNet 教學](http://www.cg.com.tw/UNet/)
 - [Unity網路連線教學(二)_電腦的連線建立(舊版連線模式) @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/56187888-unity%E7%B6%B2%E8%B7%AF%E9%80%A3%E7%B7%9A%E6%95%99%E5%AD%B8%28%E4%BA%8C%29_%E9%9B%BB%E8%85%A6%E7%9A%84%E9%80%A3%E7%B7%9A%E5%BB%BA%E7%AB%8B)
 
+
+
 # Assets
 
 - [Simple FX - Cartoon Particles - Asset Store](https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834)
@@ -313,9 +408,13 @@ Ctrl + F may help ?
 - [[blender\][blender教程].obj.fbx导入Unity的材质无颜色问题以及解决办法 - BuladeMian的博客，菜得抠脚，菜得真实 - CSDN博客](https://blog.csdn.net/BuladeMian/article/details/79631372)
 
 
+
+
 # Android
 
 - [Unity Android 發佈(輸出apk檔)設定及手機安裝教學](https://www.gameislearning.url.tw/article_content.php?getb=24&foog=9997)
+
+
 
 
 # 2D Game Creation
