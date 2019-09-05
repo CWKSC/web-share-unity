@@ -17,6 +17,29 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - Ray
 - Input
 - UI
+  - Canvas
+    - Draw order of elements 绘制元件的次序
+    - Canvas 組件
+      - Render Modes 渲染模式
+        - Render Mode 公有属性
+          - Additional Shader Channels
+        - Render Mode - Screen Space - Overlay 属性
+          - Pixel Perfect
+          - Sort Order
+          - Target Display
+        - Render Mode - Screen Space - Camera 属性
+          - Pixel Perfect
+          - Render Camera
+          - Plane Distance
+          - Sorting Layer
+          - Order in Layer
+        - Render Mode - World Space 属性
+          - Event Camera
+          - Sorting Layer
+          - Order in Layer
+      - Render Modes 下的渲染优先级
+    - Canvas Scaler 組件
+    - Graphic Raycaster 組件
   - Rect Transform
   - Text
   - Button
@@ -42,7 +65,7 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 
 Ctrl + F may help ?
 
-### Unity
+# Unity
 
 - [Unity Learn Tutorials](https://unity3d.com/learn/tutorials)
 - [Unity - Manual: Unity User Manual (2018.3)](https://docs.unity3d.com/Manual/UnityManual.html)
@@ -56,13 +79,14 @@ Ctrl + F may help ?
 - [Unity - Manual: Order of Execution for Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
 - [Update、FixedUpdate 和 LateUpdate 的区别 - 简书](https://www.jianshu.com/p/7896024c4456)
 
-### Common 常用
+# Common 常用
 
 - [Unity Script 常用語法教學(unity課程入門學習筆記)](https://www.gameislearning.url.tw/article_content.php?getb=2&foog=9997)
 
-### Scripting Tutorials
+# Scripting Tutorials
 
-- IEnumerator
+- ## IEnumerator
+  
   - [Unity - Scripting API: MonoBehaviour.StartCoroutine](https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html)
   - [Unity StartCoroutine 和 yield return 深入研究 - 追峰人 - 博客园](https://www.cnblogs.com/fly-100/p/3910515.html)
   - [详解C# 迭代器 - yangecnu - 博客园](https://www.cnblogs.com/yangecnu/archive/2012/03/17/2402432.html)
@@ -81,20 +105,20 @@ Ctrl + F may help ?
 - [Attributes - Unity](https://unity3d.com/learn/tutorials/topics/scripting/attributes?playlist=17117)
 - [Events - Unity](https://unity3d.com/learn/tutorials/topics/scripting/events?playlist=17117)
 
-### Transform
+# Transform
 
 - [Unity - Scripting API: Transform](https://docs.unity3d.com/ScriptReference/Transform.html)
 - [Unity 一些方法、函式使用方式及解釋 – MLab](http://wp.mlab.tw/?p=2269)
 - [transform.transformDirection() 的作用 | 独立之路](http://vhshiwen.blogspot.com/2013/07/transformtransformdirection.html)
 - [Movement Basics - Unity Learn](https://learn.unity.com/tutorial/movement-basics?projectId=5c514956edbc2a002069467c)
 
-### Quaternion
+# Quaternion
 
 - [Unity 四元數的使用 – usage of Unity Quaternion – 鴨仔開發日記](https://douduck08.wordpress.com/2016/06/26/usage-of-unity-quaternion/)
 
 
 
-### Ray
+# Ray
 
 - [Unity - Scripting API: Ray](https://docs.unity3d.com/ScriptReference/Ray.html)
 - [Unity - Scripting API: RaycastHit](https://docs.unity3d.com/ScriptReference/RaycastHit.html)
@@ -103,14 +127,49 @@ Ctrl + F may help ?
 
 
 
-### Input
+# Input
 
 - [Unity - Scripting API: Input](https://docs.unity3d.com/ScriptReference/Input.html)
 - [Unity - Scripting API: Input.mousePosition](https://docs.unity3d.com/ScriptReference/Input-mousePosition.html)
 
-### UI
+# UI
 
-* ### Rect Transform
+* ## Canvas
+
+  * [Unity - Manual: Canvas](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/UICanvas.html)
+
+  * [UI Canvas - Unity](https://link.zhihu.com/?target=https%3A//unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas%3Fplaylist%3D17111)
+
+  * [UGUI的深度 - 简书](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/712da6cb6852)
+
+  * [Unity3D学习笔记uGUI（9）：Canvas详述-腾讯游戏学院](https://link.zhihu.com/?target=https%3A//gameinstitute.qq.com/community/detail/112504)
+
+  * ### Draw order of elements 绘制元件的次序
+
+    * [Unity - Scripting API: Transform.GetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.GetSiblingIndex.html)
+    * [Unity - Scripting API: Transform.SetAsFirstSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsFirstSibling.html)
+    * [Unity - Scripting API: Transform.SetAsLastSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsLastSibling.html)
+    * [Unity - Scripting API: Transform.SetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetSiblingIndex.html)
+
+  * ### Canvas 組件
+
+    * #### Render Modes 渲染模式
+
+      * ##### Render Mode 公有属性
+
+      * ##### Render Mode - Screen Space - Overlay 属性
+
+      * ##### Render Mode - Screen Space - Camera 属性
+
+      * ##### Render Mode - World Space 属性
+
+    * #### Render Modes 下的渲染优先级
+
+  * ### Canvas Scaler 組件
+
+  * ### Graphic Raycaster 組件
+
+* ## Rect Transform
 
   * [Unity - Manual: Rect Transform](https://docs.unity3d.com/Manual/class-RectTransform.html)
   * [Unity - Manual: Basic Layout](https://docs.unity3d.com/Manual/UIBasicLayout.html)
@@ -122,7 +181,7 @@ Ctrl + F may help ?
   * [修改RectTransform的值 - 糯米粥 - 博客园](https://www.cnblogs.com/nsky/p/5045201.html)
   * [动态修改RectTransform的值 - ⎝⏠⏝⏠⎠ - CSDN博客](https://blog.csdn.net/qq_17758883/article/details/78568460)
 
-* ### Text
+* ## Text
 
   - [Unity TextMeshPro 中文字體 @ 迷途 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/238930883-unity-textmeshpro-中文字體)
   - [Game view appears extremely pixelated but scene view is fine - Unity Answers](https://answers.unity.com/questions/1252741/game-view-appears-extremely-pixelated-but-scene-vi.html)
@@ -130,7 +189,7 @@ Ctrl + F may help ?
 
   
 
-* ### Button
+* ## Button
 
   - [UI Button - Unity](https://unity3d.com/learn/tutorials/topics/user-interface-ui/ui-button?playlist=17111)
   - [Unity UGUI 按钮绑定事件的 4 种方式 - Hu&Fei - 博客园](https://www.cnblogs.com/isayes/p/6370168.html)
@@ -138,7 +197,7 @@ Ctrl + F may help ?
 
   
 
-* ### ScrolBar
+* ## ScrolBar
 
   - [【Unity】捲動選單 scroll list - 【Unity遊戲製作】勇者拉德小酒館](https://jerrard-liu.blogspot.com/2015/06/ScrollList.html)
   - [【Unity】UI Scrollbar & Scroll Rect - 【Unity遊戲製作】勇者拉德小酒館](https://jerrard-liu.blogspot.com/2015/09/Scrollbar-Rect.html)
@@ -148,7 +207,7 @@ Ctrl + F may help ?
 
   
 
-* ### Image
+* ## Image
 
   - [Unity UGUI Image 九宮格使用 血條設計 @ Weight遊戲作家 :: 痞客邦 ::](http://a032332852.pixnet.net/blog/post/280769818-unity-ugui-image-九宮格使用-血條設計)
   - [Unity UGUI基础之Image - 神码编程 - CSDN博客](https://blog.csdn.net/qq992817263/article/details/51754189)
@@ -161,13 +220,13 @@ Ctrl + F may help ?
 - [Unity - Manual: Canvas](https://docs.unity3d.com/Manual/UICanvas.html)
 - [UI Canvas - Unity](https://unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
 
-### Camera
+# Camera
 
 - [Smooth Camera Follow in Unity - Tutorial - YouTube](https://www.youtube.com/watch?v=MFQhpwc6cKE)
 
 
 
-### Cursor
+# Cursor
 
 - [HOW TO CUSTOMIZE YOUR MOUSE CURSOR - UNITY TUTORIAL - YouTube](https://www.youtube.com/watch?v=cCKlMAwvQcI)
 - [Unity C# Physics.Raycast 取得滑鼠點擊座標 @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/241601011-unity-c%23-physics.raycast-取得滑鼠點擊座標)
@@ -179,7 +238,7 @@ Ctrl + F may help ?
 
 
 
-### Custom Inspector
+# Custom Inspector
 
 - [Building a Custom Inspector - Unity](https://unity3d.com/learn/tutorials/topics/interface-essentials/building-custom-inspector)
 - [Unity Editor 自製編輯器(二) - Attribute | 遊戲開發筆記 - 點部落](https://dotblogs.com.tw/coolgamedevnote/2018/03/04/230939)
@@ -192,7 +251,7 @@ Ctrl + F may help ?
 
 
 
-### TileMap
+# TileMap
 
 - [Unity學習筆記#10 : TileMap基本功 – Kencoder 開發日誌](https://kendevlog.wordpress.com/2018/01/02/unity學習筆記10-tilemap基本功/)
 - [通过Unity2D独立开发一款瓷砖式RPG游戏需要学习哪些知识？ - 知乎](https://www.zhihu.com/question/25876314)
@@ -201,7 +260,7 @@ Ctrl + F may help ?
 
 
 
-### Material
+# Material
 
 - [Unity - Manual: Creating and Using Materials](https://docs.unity3d.com/Manual/Materials.html)
 - [Unity - Scripting API: Material](https://docs.unity3d.com/ScriptReference/Material.html)
@@ -209,14 +268,14 @@ Ctrl + F may help ?
 
 
 
-### Shaders
+# Shaders
 
 - [如何系统的学习 Unity 3D 中的 shader 编写（nvidia cg 编程）？ - 知乎](https://www.zhihu.com/question/21451211/answer/48704187)
 - [Unity插件 - MeshEditor（九） 模型涡流扭曲特效（黑洞吸引特效） - 神码编程 - CSDN博客](https://blog.csdn.net/qq992817263/article/details/54693806)
 
 
 
-### Mecanim
+# Mecanim
 
 - [Mecanim动画系统（一） - 知乎](https://zhuanlan.zhihu.com/p/37995835)
 - [Unity3D之Mecanim动画系统学习笔记（九）：Blend Tree（混合树） - 阿诚de窝 - 博客园](https://www.cnblogs.com/hammerc/p/4832642.html)
@@ -224,7 +283,7 @@ Ctrl + F may help ?
 
 
 
-### 多人連線
+# 多人連線
 
 - [Unity - Manual: Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html)
 - [Unity - Manual: Setting up Unity Multiplayer](https://docs.unity3d.com/Manual/UnityMultiplayerSettingUp.html)
@@ -233,13 +292,13 @@ Ctrl + F may help ?
 - [Unity UNet 教學](http://www.cg.com.tw/UNet/)
 - [Unity網路連線教學(二)_電腦的連線建立(舊版連線模式) @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/56187888-unity%E7%B6%B2%E8%B7%AF%E9%80%A3%E7%B7%9A%E6%95%99%E5%AD%B8%28%E4%BA%8C%29_%E9%9B%BB%E8%85%A6%E7%9A%84%E9%80%A3%E7%B7%9A%E5%BB%BA%E7%AB%8B)
 
-### Assets
+# Assets
 
 - [Simple FX - Cartoon Particles - Asset Store](https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834)
 
 
 
-### 星球
+# 星球
 
 - [Unity3D--物体间引力模拟效果 - Tan - CSDN博客](https://blog.csdn.net/tanmengwen/article/details/8698855)
 - [浅析UnityAPI【Physics.OverlapSphere】及其技巧 - 专注学习游戏开发【真原创】 - CSDN博客](https://blog.csdn.net/u013700908/article/details/52888792)
@@ -249,27 +308,26 @@ Ctrl + F may help ?
 
 
 
-### Blender to Unity
+# Blender to Unity
 
 - [[blender\][blender教程].obj.fbx导入Unity的材质无颜色问题以及解决办法 - BuladeMian的博客，菜得抠脚，菜得真实 - CSDN博客](https://blog.csdn.net/BuladeMian/article/details/79631372)
 
 
-### Android
+# Android
 
 - [Unity Android 發佈(輸出apk檔)設定及手機安裝教學](https://www.gameislearning.url.tw/article_content.php?getb=24&foog=9997)
 
 
-### 2D Game Creation
+# 2D Game Creation
 
 - [2D Game Creation - Unity](https://unity3d.com/learn/tutorials/s/2d-game-creation)
 
 
 
-### Unity (Brackeys Video)
+# Unity (Brackeys Video)
 
 - [MAKING A GAME IN 10 MINUTES!! - YouTube](https://www.youtube.com/watch?v=p8MzsDBI5EI)
 - [100 UNITY TIPS!!! 🔥 - YouTube](https://www.youtube.com/watch?v=thA3zv0IoUM)
-- 2D
 - [2D EFFECTORS in Unity - Tutorial - YouTube](https://www.youtube.com/watch?v=p0n6EFR1M8c)
 - [TILEMAPS in Unity - YouTube](https://www.youtube.com/watch?v=ryISV_nH8qw)
 - [How to make a 2D Game in Unity - YouTube](https://www.youtube.com/watch?v=on9nwbZngyw)
@@ -282,7 +340,7 @@ Ctrl + F may help ?
 
 
 
-### 2D Roguelike tutorial - Unity
+# 2D Roguelike tutorial - Unity
 
 - [2D Roguelike tutorial - Unity](https://unity3d.com/learn/tutorials/s/2d-roguelike-tutorial)
 - [Writing the Board Manager - Unity](https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/writing-board-manager?playlist=17150)
@@ -291,21 +349,22 @@ Ctrl + F may help ?
 
 
 
-### 3DGameKit
+# 3DGameKit
 
 - [Introduction to Quick Start Guide - Unity](https://unity3d.com/learn/tutorials/projects/3d-game-kit/introduction-quick-start-guide?playlist=51061)
 - [Introduction to Walkthrough - Unity](https://unity3d.com/learn/tutorials/projects/3d-game-kit/introduction-walkthrough?playlist=51061)
 
 
 
-### Unity优化
+# Unity优化
 
 - [C# 内存与性能优化 - 知乎](https://zhuanlan.zhihu.com/p/28471848)
 - [Unity 游戏的 string interning 优化 - 知乎](https://zhuanlan.zhihu.com/p/23877335)
 
 
 
-### 遊戲學
+# 遊戲學
 
 - [Roguelike 到底是啥 | pre-sence](http://pre-sence.com/archives/roguelike-dossier)
 - [空间类型演译：模拟游戏地图的探讨 - 知乎](https://zhuanlan.zhihu.com/p/76441410)
+
