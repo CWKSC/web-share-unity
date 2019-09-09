@@ -50,6 +50,7 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - Custom Inspector
 - TileMap
 - Material
+- Particle System
 - Shaders
 - Mecanim
 - 多人連線
@@ -358,6 +359,13 @@ Ctrl + F may help ?
 - [Unity - Manual: Creating and Using Materials](https://docs.unity3d.com/Manual/Materials.html)
 - [Unity - Scripting API: Material](https://docs.unity3d.com/ScriptReference/Material.html)
 - [[Unity\] 從零開始的學習心得 #5 – Mesh 與 Material | 鴨仔開發日記](http://www.douduck08.com/zh-tw/2018/05/12/unity-learning-totally-review-5/)
+
+
+# Particle System
+
+- [Unity - Scripting API: ParticleSystem](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
+- [Unity粒子特效教學-粒子常用功能介紹 @ 修奇的VFX特效倉庫 :: 痞客邦 ::](https://tommy20015.pixnet.net/blog/post/65571685-unity%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88%E6%95%99%E5%AD%B8-%E7%B2%92%E5%AD%90%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9)
+- [Unity 用粒子系統做Low Poly火焰 @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/254123539-unity-%e7%94%a8%e7%b2%92%e5%ad%90%e7%b3%bb%e7%b5%b1%e5%81%9alow-poly%e7%81%ab%e7%84%b0)
 
 
 
