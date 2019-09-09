@@ -363,6 +363,7 @@ Ctrl + F may help ?
 - [unity粒子編輯器詳解 - IT閱讀](https://www.itread01.com/content/1548908124.html
 - [Unity 用粒子系統做Low Poly火焰 @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/254123539-unity-%e7%94%a8%e7%b2%92%e5%ad%90%e7%b3%bb%e7%b5%b1%e5%81%9alow-poly%e7%81%ab%e7%84%b0)
 - [Unity粒子系統——簡易特效製作（一） - IT閱讀](https://www.itread01.com/content/1547565334.html)
+- [Unity5.X- 粒子系统，粒子沿着一定的轨迹运动的研究 - 个人日志 - CSDN博客](https://blog.csdn.net/a615538001/article/details/53206044)
 
 - [Unity Visual Effect Graph | Unity](https://unity.com/visual-effect-graph)
 - [Unity Visual Effect Graph快速上手指南 - Akatsuki Taiwan Technology - Medium](https://medium.com/akatsuki-taiwan-technology/unity-visual-effect-graph%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97-a1906346ed30)
