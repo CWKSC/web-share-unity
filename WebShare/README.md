@@ -153,117 +153,111 @@ Ctrl + F may help ?
 - [Unity - Manual: Canvas](https://docs.unity3d.com/Manual/UICanvas.html)
 - [UI Canvas - Unity](https://unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas?playlist=17111)
 
-* ## Canvas
+- ## Canvas
 
-  * [Unity - Manual: Canvas](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/UICanvas.html)
+  - [Unity - Manual: Canvas](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/UICanvas.html)
+  - [UI Canvas - Unity](https://link.zhihu.com/?target=https%3A//unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas%3Fplaylist%3D17111)
+  - [UGUI的深度 - 简书](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/712da6cb6852)
+  - [Unity3D学习笔记uGUI（9）：Canvas详述-腾讯游戏学院](https://link.zhihu.com/?target=https%3A//gameinstitute.qq.com/community/detail/112504)
 
-  * [UI Canvas - Unity](https://link.zhihu.com/?target=https%3A//unity3d.com/cn/learn/tutorials/topics/user-interface-ui/ui-canvas%3Fplaylist%3D17111)
+  - ### Draw order of elements 绘制元件的次序
 
-  * [UGUI的深度 - 简书](https://link.zhihu.com/?target=https%3A//www.jianshu.com/p/712da6cb6852)
+    - [Unity - Scripting API: Transform.GetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.GetSiblingIndex.html)
+    - [Unity - Scripting API: Transform.SetAsFirstSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsFirstSibling.html)
+    - [Unity - Scripting API: Transform.SetAsLastSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsLastSibling.html)
+    - [Unity - Scripting API: Transform.SetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetSiblingIndex.html)
 
-  * [Unity3D学习笔记uGUI（9）：Canvas详述-腾讯游戏学院](https://link.zhihu.com/?target=https%3A//gameinstitute.qq.com/community/detail/112504)
+  - ### Canvas 組件
 
-  * ### Draw order of elements 绘制元件的次序
+    - #### Render Modes 渲染模式
 
-    * [Unity - Scripting API: Transform.GetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.GetSiblingIndex.html)
-    * [Unity - Scripting API: Transform.SetAsFirstSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsFirstSibling.html)
-    * [Unity - Scripting API: Transform.SetAsLastSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsLastSibling.html)
-    * [Unity - Scripting API: Transform.SetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetSiblingIndex.html)
+      - [Unity学习笔记——UGUI Canvas - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5b29bb886fb9a00e315c1f03)
+      - [unity 搞懂Canvas的Render Mode的三种模式 - fdyshlk的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/fdyshlk/article/details/78509909)
+      - ##### Render Mode 公有属性
 
-  * ### Canvas 組件
+        - ###### Additional Shader Channels
 
-    * #### Render Modes 渲染模式
+          - [Unity - Scripting API: Canvas.additionalShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-additionalShaderChannels.html)
+          - [Unity - Scripting API: AdditionalCanvasShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.html)
+          - [None](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.None.html)
+          - [TexCoord1](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord1.html)
+          - [TexCoord2](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord2.html)
+          - [TexCoord3](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord3.html)
+          - [Normal](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Normal.html)
+          - [Tangent](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Tangent.html)
 
-      * [Unity学习笔记——UGUI Canvas - 掘金](https://link.zhihu.com/?target=https%3A//juejin.im/post/5b29bb886fb9a00e315c1f03)
+      - ##### Render Mode - Screen Space - Overlay 属性
 
-      * [unity 搞懂Canvas的Render Mode的三种模式 - fdyshlk的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/fdyshlk/article/details/78509909)
+        - ###### Pixel Perfect
 
-      * ##### Render Mode 公有属性
+          - [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
+          - [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
 
-        * ###### Additional Shader Channels
+        - ###### Sort Order
 
-          * [Unity - Scripting API: Canvas.additionalShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-additionalShaderChannels.html)
-          * [Unity - Scripting API: AdditionalCanvasShaderChannels](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.html)
-          * [None](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.None.html)
-          * [TexCoord1](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord1.html)
-          * [TexCoord2](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord2.html)
-          * [TexCoord3](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.TexCoord3.html)
-          * [Normal](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Normal.html)
-          * [Tangent](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/AdditionalCanvasShaderChannels.Tangent.html)
+          - [Unity - Scripting API: Canvas.sortingOrder](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingOrder.html)
 
-      * ##### Render Mode - Screen Space - Overlay 属性
+        - ###### Target Display
 
-        * ###### Pixel Perfect
+          - [Unity - Scripting API: Canvas.targetDisplay](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-targetDisplay.html)
 
-          * [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
-          * [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
+      - ##### Render Mode - Screen Space - Camera 属性
 
-        * ###### Sort Order
+        - ###### Pixel Perfect
 
-          * [Unity - Scripting API: Canvas.sortingOrder](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingOrder.html)
+          - [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
+          - [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
 
-        * ###### Target Display
+        - ###### Render Camera
 
-          * [Unity - Scripting API: Canvas.targetDisplay](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-targetDisplay.html)
+          - [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
+          - [unity3d - How to change the Canvas Render Camera via C# - Stack Overflow](https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/41172136/how-to-change-the-canvas-render-camera-via-c-sharp)
 
-      * ##### Render Mode - Screen Space - Camera 属性
+        - ###### Plane Distance
 
-        * ###### Pixel Perfect
+          - [Unity - Scripting API: Canvas.planeDistance](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-planeDistance.html)
 
-          * [What does 'pixel perfect' mean? - Quora](https://link.zhihu.com/?target=https%3A//www.quora.com/What-does-pixel-perfect-mean)
-          * [Unity - Scripting API: Canvas.pixelPerfect](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-pixelPerfect.html)
+        - ###### Sorting Layer
 
-        * ###### Render Camera
+          - [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html)
+          - [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html)
+          - [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
 
-          * [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
-          * [unity3d - How to change the Canvas Render Camera via C# - Stack Overflow](https://link.zhihu.com/?target=https%3A//stackoverflow.com/questions/41172136/how-to-change-the-canvas-render-camera-via-c-sharp)
+        - ###### Order in Layer
 
-        * ###### Plane Distance
+          - （空的，暂时没有参考网站。）
 
-          * [Unity - Scripting API: Canvas.planeDistance](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-planeDistance.html)
+      - ##### Render Mode - World Space 属性
 
-        * ###### Sorting Layer
+        - ###### Event Camera
 
-          * [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html)
-          * [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html)
-          * [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
+          - [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
+          - [How to set world space canvas event camera at runtime? - Unity Forum](https://link.zhihu.com/?target=https%3A//forum.unity.com/threads/how-to-set-world-space-canvas-event-camera-at-runtime.268044/)
 
-        * ###### Order in Layer
+        - ###### Sorting Layer
 
-          * （空的，暂时没有参考网站。）
+          - [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html) 
+          - [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html) 
+          - [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
 
-      * ##### Render Mode - World Space 属性
+        - ###### Order in Layer
 
-        * ###### Event Camera
+          - （空的，暂时没有参考网站。）
 
-          * [Unity - Scripting API: Canvas.worldCamera](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-worldCamera.html)
-          * [How to set world space canvas event camera at runtime? - Unity Forum](https://link.zhihu.com/?target=https%3A//forum.unity.com/threads/how-to-set-world-space-canvas-event-camera-at-runtime.268044/)
+    - #### Render Modes 下的渲染优先级
 
-        * ###### Sorting Layer
+      - [UGUI渲染优先级 - zhangzhen551的专栏 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/zhangzhen551/article/details/43938587)
+      - [UGUI学习（二）渲染模式和层级顺序 - nanzhengluo的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/nanzhengluo/article/details/72864599)
 
-          * [Unity - Scripting API: Canvas.sortingLayerID](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerID.html) 
-          * [Unity - Scripting API: Canvas.sortingLayerName](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Canvas-sortingLayerName.html) 
-          * [不再混淆Layer,sorting layer,order in layer (unity5.3.6版本) - yq398934906的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/yq398934906/article/details/68484665)
+  - ### Canvas Scaler 組件
 
-        * ###### Order in Layer
+    - [Unity - Manual: Canvas Scaler](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/script-CanvasScaler.html)
+    - [[UGUI\]深入理解Canvas Scaler - 安宁技术博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/inlet511/article/details/46822383)
+    - [Unity Canvas Scaler详解 - CheerseUp的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/a1459078670/article/details/78384129)
 
-          * （空的，暂时没有参考网站。）
+  - ### Graphic Raycaster 組件
 
-    * #### Render Modes 下的渲染优先级
-
-      * [UGUI渲染优先级 - zhangzhen551的专栏 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/zhangzhen551/article/details/43938587)
-      * [UGUI学习（二）渲染模式和层级顺序 - nanzhengluo的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/nanzhengluo/article/details/72864599)
-
-  * ### Canvas Scaler 組件
-
-    * [Unity - Manual: Canvas Scaler](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/script-CanvasScaler.html)
-    * [[UGUI\]深入理解Canvas Scaler - 安宁技术博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/inlet511/article/details/46822383)
-    * [Unity Canvas Scaler详解 - CheerseUp的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/a1459078670/article/details/78384129)
-
-  * ### Graphic Raycaster 組件
-
-    * （空的，暂时没有参考网站。）
-
+    - （空的，暂时没有参考网站。）
     
 
 * ## Rect Transform
@@ -341,7 +335,7 @@ Ctrl + F may help ?
 - [Unity Editor 基础篇（二）：自定义 Inspector 面板-腾讯游戏学院](https://gameinstitute.qq.com/community/detail/117632)
 - [Editor Scripting - Unity Learn](https://learn.unity.com/tutorial/editor-scripting#)
 - [Editor Scripting - Unity Learn](https://learn.unity.com/tutorial/editor-scripting#5c7f8528edbc2a002053b5f9)
-- [遊戲筆記: Editor Scripting](https://play2gethergamenote.blogspot.com/search/label/Editor Scripting)
+- [遊戲筆記: Editor Scripting](https://play2gethergamenote.blogspot.com/search/label/EditorScripting)
 
 
 
