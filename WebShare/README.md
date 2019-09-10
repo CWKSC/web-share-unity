@@ -90,6 +90,7 @@ Ctrl + F may help ?
 
 # C# Script Tutorials
 
+- [C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
 - [Multidimensional Arrays - C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays)
 
 
@@ -407,6 +408,11 @@ Ctrl + F may help ?
 # Assets
 
 - [Simple FX - Cartoon Particles - Asset Store](https://assetstore.unity.com/packages/vfx/particles/simple-fx-cartoon-particles-67834)
+
+
+# Practice 實作
+
+- [300行代码实现Minecraft(我的世界)大地图生成 - 知乎](https://zhuanlan.zhihu.com/p/28730967)
 
 
 
