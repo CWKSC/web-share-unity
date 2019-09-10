@@ -10,6 +10,7 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 
 - Unity
 - Common 常用
+- C# Script Tutorials
 - Scripting Tutorials
   - IEnumerator
 - Transform
@@ -85,6 +86,11 @@ Ctrl + F may help ?
 # Common 常用
 
 - [Unity Script 常用語法教學(unity課程入門學習筆記)](https://www.gameislearning.url.tw/article_content.php?getb=2&foog=9997)
+
+
+# C# Script Tutorials
+
+- [Multidimensional Arrays - C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays)
 
 
 
