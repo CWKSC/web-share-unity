@@ -1,9 +1,11 @@
-## Position
+# Position
 
 - FollowPosition.cs
+  - 跟随位置
 - LockPosition.cs
+  - 锁定位置
 
-### Follow Position 跟随位置
+## Follow Position 跟随位置
 
 ```C#
 public GameObject target;
@@ -39,7 +41,7 @@ void Update()
 }
 ```
 
-### Lock Position 锁定位置
+## Lock Position 锁定位置
 
 ```C#
 public GameObject target;
@@ -67,13 +69,13 @@ void LateUpdate()
 
 两者的距离和相对位置会被锁定。
 
-### 为什么不使用 child 的方式去锁定 position ？
+## 为什么不使用 child 的方式去锁定 position ？
 
 因为 child 在 parent 的 rotation 改变时，child 也会一起改变。
 
 我們只要 position 跟随。
 
-### Lock 和 Follow 的分别：
+## Lock 和 Follow 的分别：
 
 Lock Position 锁定位置是死锁。
 
@@ -85,10 +87,13 @@ Follow Position 是按照 target 的位置。
 
 跟随者的位置不会被锁定。
 
-### 其他方法：
+## 其他方法：
 
 设定为 target 的 child。
 
 添加 Rigidbody 组件，freeze rotation。
 
 这个方法没有试过，但应该可行。
+
+___
+

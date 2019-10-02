@@ -1,8 +1,22 @@
 ## Movement
 
 - ForwardAndRotate.cs
+
+  - use up and down to control forward and back. 使用上下控制前進和後退。
+
+    use left and right to control rotation. 使用左右控制旋轉。
+
 - MoveXY.cs
+
+  - use up, down to move y. 使用上、下移動 y。
+
+    use left, right to move x. 使用左、右移動 x。
+
 - MoveXZ.cs
+
+  - use up, down to move x, 使用上、下移動 y。
+
+    use left, right to move z. 使用左、右移動 z。
 
 ### ForwardAndRotate.cs
 
@@ -17,9 +31,9 @@ void Update()
 }
 ```
 
-use up and down to control forward and back.
+use up and down to control forward and back. 使用上下控制前進和後退。
 
-use left and right to control rotation.
+use left and right to control rotation. 使用左右控制旋轉。
 
 ## MoveXY.cs
 
@@ -35,9 +49,9 @@ void Update()
 }
 ```
 
-use up, down to move y,
+use up, down to move y. 使用上、下移動 y。
 
-use left, right to mvoe x.
+use left, right to move x. 使用左、右移動 x。
 
 ### MoveXZ.cs
 
@@ -53,6 +67,9 @@ void Update()
 }
 ```
 
-use up, down to move x,
+use up, down to move x, 使用上、下移動 y。
 
-use left, right to mvoe z.
+use left, right to move z. 使用左、右移動 z。
+
+___
+
