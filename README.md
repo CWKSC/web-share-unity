@@ -3,7 +3,7 @@
 
 ___
 
-There have five part just now.
+There are five part just now.
 
 - Project
 - Resources
