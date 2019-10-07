@@ -3,9 +3,12 @@
 
 ___
 
-There have two part just now.
+There are five part just now.
 
+- Project
+- Resources
 - Script
+- Tutorial
 - WebShare
 
 ## How to contribute ?
