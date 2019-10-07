@@ -13,34 +13,13 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - C# Script Tutorials
 - Scripting Tutorials
   - IEnumerator
+- Vector3
 - Transform
 - Quaternion
 - Ray
 - Input
 - UI
   - Canvas
-    - Draw order of elements 绘制元件的次序
-    - Canvas 組件
-      - Render Modes 渲染模式
-        - Render Mode 公有属性
-          - Additional Shader Channels
-        - Render Mode - Screen Space - Overlay 属性
-          - Pixel Perfect
-          - Sort Order
-          - Target Display
-        - Render Mode - Screen Space - Camera 属性
-          - Pixel Perfect
-          - Render Camera
-          - Plane Distance
-          - Sorting Layer
-          - Order in Layer
-        - Render Mode - World Space 属性
-          - Event Camera
-          - Sorting Layer
-          - Order in Layer
-      - Render Modes 下的渲染优先级
-    - Canvas Scaler 組件
-    - Graphic Raycaster 組件
   - Rect Transform
   - Text
   - Button
@@ -117,6 +96,12 @@ Ctrl + F may help ?
   - [Unity中协程(IEnumerator)的使用方法介绍 - 悲欢离合的博客 - CSDN博客](https://blog.csdn.net/beihuanlihe130/article/details/76098844)
   - [Unity Coroutine 使用筆記](https://dev.twsiyuan.com/2017/05/unity-coroutine.html)
   - [Unity3D製作計數器「StartCoroutine應用」 - a1455785的創作 - 巴哈姆特](https://home.gamer.com.tw/creationDetail.php?sn=2649394)
+
+
+
+# Vector3
+
+[Unity ScriptingAPI Vector3学习 - 我的脚步 - CSDN博客](https://blog.csdn.net/liuyang_sy/article/details/46797941)
 
 
 
@@ -367,7 +352,7 @@ Ctrl + F may help ?
 
 - [Unity - Scripting API: ParticleSystem](https://docs.unity3d.com/ScriptReference/ParticleSystem.html)
 - [Unity粒子特效教學-粒子常用功能介紹 @ 修奇的VFX特效倉庫 :: 痞客邦 ::](https://tommy20015.pixnet.net/blog/post/65571685-unity%E7%B2%92%E5%AD%90%E7%89%B9%E6%95%88%E6%95%99%E5%AD%B8-%E7%B2%92%E5%AD%90%E5%B8%B8%E7%94%A8%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%B4%B9)
-- [unity粒子編輯器詳解 - IT閱讀](https://www.itread01.com/content/1548908124.html
+- [unity粒子編輯器詳解 - IT閱讀](https://www.itread01.com/content/1548908124.html)
 - [Unity 用粒子系統做Low Poly火焰 @ 迷途_Unity工作室 :: 痞客邦 ::](http://cindyalex.pixnet.net/blog/post/254123539-unity-%e7%94%a8%e7%b2%92%e5%ad%90%e7%b3%bb%e7%b5%b1%e5%81%9alow-poly%e7%81%ab%e7%84%b0)
 - [Unity粒子系統——簡易特效製作（一） - IT閱讀](https://www.itread01.com/content/1547565334.html)
 - [Unity5.X- 粒子系统，粒子沿着一定的轨迹运动的研究 - 个人日志 - CSDN博客](https://blog.csdn.net/a615538001/article/details/53206044)
