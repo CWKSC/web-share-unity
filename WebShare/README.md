@@ -9,8 +9,8 @@
 Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 
 - [Unity](#Unity)
-- Common 常用
-- C# Script Tutorials
+- [Common 常用](#Common 常用)
+- [C# Script Tutorials](#C# Script Tutorials)
 - Scripting Tutorials
   - IEnumerator
 - Vector3
@@ -248,11 +248,14 @@ Ctrl + F may help ?
   - ### Canvas Scaler 組件
 
     - [Unity - Manual: Canvas Scaler](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/script-CanvasScaler.html)
+    - [Unity UGUI 原理篇(二)：Canvas Scaler 縮放核心 | ARKAI Studio]( [http://www.arkaistudio.com/blog/2016/03/28/unity-ugui-%E5%8E%9F%E7%90%86%E7%AF%87%E4%BA%8C%EF%BC%9Acanvas-scaler-%E7%B8%AE%E6%94%BE%E6%A0%B8%E5%BF%83/](http://www.arkaistudio.com/blog/2016/03/28/unity-ugui-原理篇二：canvas-scaler-縮放核心/) )
     - [[UGUI\]深入理解Canvas Scaler - 安宁技术博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/inlet511/article/details/46822383)
+  - [UGUI之CanvasScaler的正确用法 - u012842807的专栏 - CSDN博客]( https://blog.csdn.net/u012842807/article/details/47019457 )
     - [Unity Canvas Scaler详解 - CheerseUp的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/a1459078670/article/details/78384129)
-
+  - [关于Canvas Scaler的作用 - Tempest_BLOG - CSDN博客]( https://blog.csdn.net/qq_28824335/article/details/48250819 )
+  
   - ### Graphic Raycaster 組件
-
+  
     - （空的，暂时没有参考网站。）
     
 
