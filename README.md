@@ -17,4 +17,6 @@ And some of the Article in Chinese.
 
 ## How to contribute ?
 
-Upload script `.cs`, add some text of corresponding `README.md` and elaborate it.
+For WebShare, please look at the Issue.
+
+For Scripts, Upload script `.cs`, add some text of corresponding `README.md` and elaborate it.
