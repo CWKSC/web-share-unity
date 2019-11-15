@@ -1,15 +1,15 @@
 # MyLib_Unity
 
- A Library for Unity.
+ A Library for Unity. Unity 库
 
 ___
 
 There are five part just now.
 
-- Project (not ready) （還沒準備好）
-- Resources (so little)
+- Project (not ready) （还没准备好）（還沒準備好）
+- Resources (so little) （太少）
 - Script
-- Tutorial (not ready) （還沒準備好）
+- Tutorial (not ready) （还没准备好）（還沒準備好）
 - WebShare
 
 And some of the Article in Chinese.
