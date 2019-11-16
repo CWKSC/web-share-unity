@@ -40,6 +40,8 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - Assets
 - 星球
 - Blender to Unity
+- Android
+- Scriptable Object
 - 2D Game Creation
 - Unity (Brackeys Video)
 - 2D Roguelike tutorial - Unity
@@ -466,6 +468,13 @@ Ctrl + F may help ?
 
 - [Unity Android 發佈(輸出apk檔)設定及手機安裝教學](https://www.gameislearning.url.tw/article_content.php?getb=24&foog=9997)
 
+
+
+
+# Scriptable Object
+- [Unite Austin 2017 - Game Architecture with Scriptable Objects] (https://www.youtube.com/watch?v=raQ3iHhE_Kk)
+- [SCRIPTABLE OBJECTS in Unity] (https://www.youtube.com/watch?v=aPXvoWVabPY)
+- [How To Use Scriptable Objects in Unity] (https://www.youtube.com/watch?v=lJxy3oTZeCs)
 
 
 
