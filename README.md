@@ -4,7 +4,7 @@
 
 ___
 
-There are five part just now.
+There are five part just now. 目前只有五个部分。
 
 - Project (not ready) （还没准备好）（還沒準備好）
 - Resources (so little) （太少）
