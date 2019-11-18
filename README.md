@@ -12,7 +12,9 @@ There are five part just now. 目前只有五个部分。
 - Tutorial (not ready) （还没准备好）（還沒準備好）
 - WebShare
 
-And some of the Article in Chinese.
+The main content is the script, 主要内容是 Script,
+
+And some of the Article in Chinese. 还有一些中文的文章。
 
 [Unity 笔记 - 目录 - 知乎](https://zhuanlan.zhihu.com/p/75911713)
 
