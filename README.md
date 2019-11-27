@@ -14,7 +14,7 @@ There are five part just now. 目前只有五个部分。
 
 The main content is the script, 主要内容是 Script,
 
-And some of the Article in Chinese. 还有一些中文的文章。
+And some of the Article in Chinese. 还有一些中文的文章。 還有一些中文的文章。
 
 [Unity 笔记 - 目录 - 知乎](https://zhuanlan.zhihu.com/p/75911713)
 
