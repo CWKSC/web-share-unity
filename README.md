@@ -1,6 +1,10 @@
 # MyLib_Unity
 
- A Library for Unity. Unity 库
+A Library for Unity. Script, some articles and learning resources. 
+
+Unity 库，脚本、一些文章和学习资源。
+
+Unity 庫，腳本，一些文章和學習資源。
 
 ___
 
