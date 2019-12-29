@@ -47,6 +47,7 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - 2D Roguelike tutorial - Unity
 - 3DGameKit
 - Unity优化
+- Unit Testing
 - 遊戲學
 
 Ctrl + F may help ?
@@ -520,6 +521,12 @@ Ctrl + F may help ?
 
 - [C# 内存与性能优化 - 知乎](https://zhuanlan.zhihu.com/p/28471848)
 - [Unity 游戏的 string interning 优化 - 知乎](https://zhuanlan.zhihu.com/p/23877335)
+
+
+
+# Unit Testing
+
+- [Basic Unit Testing Setup with Assembly Definition Files](https://www.youtube.com/watch?v=yA_ixsWP3zc)
 
 
 
