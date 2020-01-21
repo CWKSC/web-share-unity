@@ -33,6 +33,7 @@ Ctrl + F may help ? 有沒有熱心人士幫我加入頁內跳轉。
 - [Material 材質](#Material-材質)
 - Particle System
 - Shaders
+- Shader Graph
 - Mecanim
 - 多人連線
   - Socket
@@ -393,6 +394,13 @@ Ctrl + F may help ?
 
 - [如何系统的学习 Unity 3D 中的 shader 编写（nvidia cg 编程）？ - 知乎](https://www.zhihu.com/question/21451211/answer/48704187)
 - [Unity插件 - MeshEditor（九） 模型涡流扭曲特效（黑洞吸引特效） - 神码编程 - CSDN博客](https://blog.csdn.net/qq992817263/article/details/54693806)
+
+
+
+# Shader Graph
+
+- [Basics of Shader Graph - Unity Tutorial](https://www.youtube.com/watch?v=Ar9eIn4z6XE)
+- [Shader Graph Tutorial (Official Tutorial)](https://www.youtube.com/playlist?list=PLX2vGYjWbI0RyhAsNJg4sLLKgCZsRSim2)
 
 
 
