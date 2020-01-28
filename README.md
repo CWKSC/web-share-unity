@@ -2,23 +2,21 @@
 
 A Library for Unity. Script, some articles and learning resources. 
 
-Unity 库，脚本、一些文章和学习资源。
-
 Unity 庫，腳本，一些文章和學習資源。
 
 ___
 
 There are five part just now. 目前只有五个部分。
 
-- Project (not ready) （还没准备好）（還沒準備好）
+- Project (not ready)（還沒準備好）
 - Resources (so little) （太少）
 - Script
-- Tutorial (not ready) （还没准备好）（還沒準備好）
-- WebShare
+- Tutorial (not ready)（還沒準備好）
+- [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare)
 
-The main content is the script, 主要内容是 Script,
+The main content is [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare) and script, 主要内容是 [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare) 和 Script,
 
-And some of the Article in Chinese. 还有一些中文的文章。 還有一些中文的文章。
+And some of the Article in Chinese. 還有一些中文的文章。
 
 [Unity 笔记 - 目录 - 知乎](https://zhuanlan.zhihu.com/p/75911713)
 
