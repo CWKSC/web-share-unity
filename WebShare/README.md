@@ -14,23 +14,19 @@ You can view the issue or fork + push request to request a change.
 
 ## The following is the index: 以下是索引：
 
-### [Unity](#Unity)
+### [Unity](Unity/README.md)
 
-[Common 常用](#Common-常用)
+### [C#](C#/README.md)
 
-[C# Script Tutorials](#C-Script-Tutorials)
+### [Script](Script/README.md)
 
-[Scripting Tutorials](#Scripting-Tutorials)
+### [Vector3](Vector3/README.md)
 
-[IEnumerator](#IEnumerator)
+### [Transform](Transform/README.md)
 
-Vector3
+### [Quaternion](Quaternion/README.md)
 
-Transform
-
-Quaternion
-
-Ray
+### [Ray](Ray/README.md)
 
 Input
 
@@ -87,87 +83,6 @@ Unit Testing
 遊戲學
 
 
-
-# Unity
-
-- [Unity Learn Tutorials](https://unity3d.com/learn/tutorials)
-- [Unity - Manual: Unity User Manual (2018.3)](https://docs.unity3d.com/Manual/UnityManual.html)
-- [Unity - Scripting API:](https://docs.unity3d.com/ScriptReference/)
-- [Unity3D Manual 中文用户手册 - Unity圣典](http://www.ceeger.com/Manual/)
-- [Unity圣典 - Unity 3.3 中文脚本参考 Scripting Overview (Unity 脚本概述)](http://simulgeek.com/wp-content/uploads/2019/01/Unity%203.3%E5%9C%A3%E5%85%B8%E4%B8%AD%E6%96%87%E8%84%9A%E6%9C%AC/index.html)
-- [如何学好 Unity？ - 知乎](https://www.zhihu.com/question/23790314/answer/46815232)
-- [成为熟手：100条Unity基础小贴士 - 知乎](https://zhuanlan.zhihu.com/p/54763553)
-- [Unity 教學 - 多面體工作室 Dometi](https://dometi.com.tw/blog/unity-teaching/)
-- [Unity 文章整理](https://dev.twsiyuan.com/p/unity.html)
-- [Unity - Manual: Order of Execution for Event Functions](https://docs.unity3d.com/Manual/ExecutionOrder.html)
-- [Update、FixedUpdate 和 LateUpdate 的区别 - 简书](https://www.jianshu.com/p/7896024c4456)
-
-
-
-# Common 常用
-
-- [Unity Script 常用語法教學(unity課程入門學習筆記)](https://www.gameislearning.url.tw/article_content.php?getb=2&foog=9997)
-
-
-# C# Script Tutorials
-
-- [C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
-- [Multidimensional Arrays - C# Programming Guide | Microsoft Docs](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/arrays/multidimensional-arrays)
-
-
-
-# Scripting Tutorials
-
-- [Scripting - Unity](https://unity3d.com/learn/tutorials/s/scripting)
-- [GetAxis - Unity](https://unity3d.com/learn/tutorials/topics/scripting/getaxis?playlist=17117)
-- [Instantiate - Unity](https://unity3d.com/learn/tutorials/topics/scripting/instantiate?playlist=17117)
-- [Properties - Unity](https://unity3d.com/learn/tutorials/topics/scripting/properties?playlist=17117)
-- [Member Hiding - Unity](https://unity3d.com/learn/tutorials/topics/scripting/member-hiding?playlist=17117)
-- [Extension Methods - Unity](https://unity3d.com/learn/tutorials/topics/scripting/extension-methods?playlist=17117)
-- [Coroutines - Unity](https://unity3d.com/learn/tutorials/topics/scripting/coroutines?playlist=17117)
-- [Quaternions - Unity](https://unity3d.com/learn/tutorials/topics/scripting/quaternions?playlist=17117)
-- [Delegates - Unity](https://unity3d.com/learn/tutorials/topics/scripting/delegates?playlist=17117)
-- [Attributes - Unity](https://unity3d.com/learn/tutorials/topics/scripting/attributes?playlist=17117)
-- [Events - Unity](https://unity3d.com/learn/tutorials/topics/scripting/events?playlist=17117)
-
-- ## IEnumerator
-  
-  - [Unity - Scripting API: MonoBehaviour.StartCoroutine](https://docs.unity3d.com/ScriptReference/MonoBehaviour.StartCoroutine.html)
-  - [Unity StartCoroutine 和 yield return 深入研究 - 追峰人 - 博客园](https://www.cnblogs.com/fly-100/p/3910515.html)
-  - [详解C# 迭代器 - yangecnu - 博客园](https://www.cnblogs.com/yangecnu/archive/2012/03/17/2402432.html)
-  - [Unity中协程(IEnumerator)的使用方法介绍 - 悲欢离合的博客 - CSDN博客](https://blog.csdn.net/beihuanlihe130/article/details/76098844)
-  - [Unity Coroutine 使用筆記](https://dev.twsiyuan.com/2017/05/unity-coroutine.html)
-  - [Unity3D製作計數器「StartCoroutine應用」 - a1455785的創作 - 巴哈姆特](https://home.gamer.com.tw/creationDetail.php?sn=2649394)
-
-
-
-# Vector3
-
-* [Unity ScriptingAPI Vector3学习 - 我的脚步 - CSDN博客](https://blog.csdn.net/liuyang_sy/article/details/46797941)
-
-
-
-# Transform
-
-- [Unity - Scripting API: Transform](https://docs.unity3d.com/ScriptReference/Transform.html)
-- [Unity 一些方法、函式使用方式及解釋 – MLab](http://wp.mlab.tw/?p=2269)
-- [transform.transformDirection() 的作用 | 独立之路](http://vhshiwen.blogspot.com/2013/07/transformtransformdirection.html)
-- [Movement Basics - Unity Learn](https://learn.unity.com/tutorial/movement-basics?projectId=5c514956edbc2a002069467c)
-
-
-
-# Quaternion
-
-- [Unity 四元數的使用 – usage of Unity Quaternion – 鴨仔開發日記](https://douduck08.wordpress.com/2016/06/26/usage-of-unity-quaternion/)
-
-
-
-# Ray
-
-- [Unity - Scripting API: Ray](https://docs.unity3d.com/ScriptReference/Ray.html)
-- [Unity - Scripting API: RaycastHit](https://docs.unity3d.com/ScriptReference/RaycastHit.html)
-- [Unity - Scripting API: Physics.Raycast](https://docs.unity3d.com/ScriptReference/Physics.Raycast.html)
-- [Physics.Raycast和Ray（射线）的理解 - 清风徐来 - CSDN博客](https://blog.csdn.net/ElyXiao/article/details/50866130)
 
 
 
