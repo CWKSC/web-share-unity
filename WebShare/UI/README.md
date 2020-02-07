@@ -34,15 +34,21 @@ ___
 
 - ### [Canvas](#Canvas)
 
-- ### [Rect Transform](#Rect Transform)
+  - #### [Draw order of elements](#Draw%20order%20of%20elements)
 
-- Text
+  - #### [Canvas Component](#Canvas%20Component)
 
-- Button
+  - #### [Canvas Scaler Component](#Canvas%20Scaler%20Component)
 
-- ScrolBar
+- ### [Rect Transform](#Rect%20Transform)
 
-- Image
+- ### [Text](#Text)
+
+- ### [Button](#Button)
+
+- ### [ScrolBar](#ScrolBar)
+
+- ### [Image](#Image)
 
 ___
 
@@ -63,7 +69,7 @@ ___
 - [Unity - Scripting API: Transform.SetAsLastSibling](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetAsLastSibling.html)
 - [Unity - Scripting API: Transform.SetSiblingIndex](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/ScriptReference/Transform.SetSiblingIndex.html)
 
-### Canvas 組件
+### Canvas Component 組件
 
 - #### Render Modes 渲染模式
 
@@ -147,17 +153,16 @@ ___
   - [UGUI渲染优先级 - zhangzhen551的专栏 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/zhangzhen551/article/details/43938587)
   - [UGUI学习（二）渲染模式和层级顺序 - nanzhengluo的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/nanzhengluo/article/details/72864599)
 
-- ### Canvas Scaler 組件
+- ### Canvas Scaler Component 組件
 
   - [Unity - Manual: Canvas Scaler](https://link.zhihu.com/?target=https%3A//docs.unity3d.com/Manual/script-CanvasScaler.html)
   - [Unity UGUI 原理篇(二)：Canvas Scaler 縮放核心 | ARKAI Studio]( [http://www.arkaistudio.com/blog/2016/03/28/unity-ugui-%E5%8E%9F%E7%90%86%E7%AF%87%E4%BA%8C%EF%BC%9Acanvas-scaler-%E7%B8%AE%E6%94%BE%E6%A0%B8%E5%BF%83/](http://www.arkaistudio.com/blog/2016/03/28/unity-ugui-原理篇二：canvas-scaler-縮放核心/) )
   - [[UGUI\]深入理解Canvas Scaler - 安宁技术博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/inlet511/article/details/46822383)
 
-- [UGUI之CanvasScaler的正确用法 - u012842807的专栏 - CSDN博客]( https://blog.csdn.net/u012842807/article/details/47019457 )
-
+  - [UGUI之CanvasScaler的正确用法 - u012842807的专栏 - CSDN博客]( https://blog.csdn.net/u012842807/article/details/47019457 )
   - [Unity Canvas Scaler详解 - CheerseUp的博客 - CSDN博客](https://link.zhihu.com/?target=https%3A//blog.csdn.net/a1459078670/article/details/78384129)
 
-- [关于Canvas Scaler的作用 - Tempest_BLOG - CSDN博客]( https://blog.csdn.net/qq_28824335/article/details/48250819 )
+  - [关于Canvas Scaler的作用 - Tempest_BLOG - CSDN博客]( https://blog.csdn.net/qq_28824335/article/details/48250819 )
 
 - ### Graphic Raycaster 組件
 
