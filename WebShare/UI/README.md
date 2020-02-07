@@ -24,6 +24,10 @@ ___
 
 [START MENU in Unity - YouTube](https://www.youtube.com/watch?v=zc8ac_qUXQY)
 
+### Github Collection
+
+[mob-sakai/UIEffect: UIEffect is an effect component for uGUI element in Unity. Let's decorate your UI with effects!](https://github.com/mob-sakai/UIEffect)
+
 ___
 
 - Canvas
