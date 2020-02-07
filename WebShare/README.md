@@ -32,6 +32,12 @@ You can view the issue or fork + push request to request a change.
 
 ### [UI](UI/README.md)
 
+* Canvas, Rect Transform, Text, Button, ScrolBar, Image
+
+### [Graphics](Graphics/README.md)
+
+* Lighting, Shaders, Shader Graph
+
 ### [Camera](Camera/README.md)
 
 ### [Cursor](Cursor/README.md)
