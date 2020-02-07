@@ -36,15 +36,15 @@ You can view the issue or fork + push request to request a change.
 
 ### [Cursor](Cursor/README.md)
 
-### [Mouse Look](Mouse Look/README.md)
+### [Mouse Look](Mouse%20Look/README.md)
 
-### [Custom Inspector](Mouse Look/README.md)
+### [Custom Inspector](Custom%20Inspector/README.md)
 
 ### [TileMap](TileMap/README.md)
 
 ### [Material](Material/README.md)
 
-### [Particle System](Particle System/README.md)
+### [Particle System](Particle%20System/README.md)
 
 Mecanim
 
