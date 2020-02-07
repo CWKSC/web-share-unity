@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PositionSystem : MonoBehaviour
+public class PositionSystem
 {
 
     public static Vector3 mousePositionOffset = new Vector3(Screen.width / 2, Screen.height / 2);

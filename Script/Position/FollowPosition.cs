@@ -1,25 +1,22 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class FollowPosition : MonoBehaviour
 {
 
-    public GameObject target;
+    public Transform targetTransform;
 
     Vector3 offset;
     Vector3 oldPosition;
 
-    void Start()
+    public void Start()
     {
-        oldPosition = target.transform.position;
+        oldPosition = targetTransform.position;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Update()
     {
-        offset = target.transform.position - oldPosition;
+        offset = targetTransform.position - oldPosition;
         transform.position += offset;
-        oldPosition = target.transform.position;
+        oldPosition = targetTransform.position;
     }
 }
