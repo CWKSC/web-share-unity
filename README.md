@@ -6,9 +6,9 @@ ___
 
 Contributions are welcome. 歡迎進行貢獻。
 
-You can view the issue or fork + push request to request a change.
+You can view the [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1) or fork + push request to request a change.
 
-你可以查看 issue 或者 fork + push request 的方式請求修改。
+你可以查看 [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1) 或者 fork + push request 的方式請求修改。
 
 ---
 
