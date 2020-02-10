@@ -1,29 +1,86 @@
-# MyLib_Unity
+# MyLib_Unity_WebShare
 
-A Library for Unity. Script, some articles and learning resources. 
-
-Unity 庫，腳本，一些文章和學習資源。
+Websites collection related to Unity. 與 Unity 有關的網站收集。
 
 ___
 
-There are five part just now. 目前只有五个部分。
+Contributions are welcome. 歡迎進行貢獻。
 
-- Project (not ready)（還沒準備好）
-- Resources (so little) （太少）
-- Script
-- Tutorial (not ready)（還沒準備好）
-- [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare)
+You can view the issue or fork + push request to request a change.
 
-The main content is [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare) and script, 主要内容是 [WebShare](https://github.com/CWKSC/MyLib_Unity/tree/master/WebShare) 和 Script,
+你可以查看 issue 或者 fork + push request 的方式請求修改。
 
-And some of the Article in Chinese. 還有一些中文的文章。
+---
 
-[Unity 笔记 - 目录 - 知乎](https://zhuanlan.zhihu.com/p/75911713)
+## The following is the index: 以下是索引：
 
-## How to contribute ? 如何貢獻？
+### [Unity](Unity/README.md)
 
-For WebShare, please look at the Issue. 對於 WebShare，請查看 Issue。
+### [Tutorial](Tutorial/README.md)
 
-For Scripts, you can upload script `.cs`, add some text of corresponding `README.md` and elaborate it.
+### [C#](C#/README.md)
 
-對於腳本，您可以上傳腳本 `.cs` ，添加相應的 `README.md` 的一些文本並進行詳細說明。
+### [Script](Script/README.md)
+
+### [Vector3](Vector3/README.md)
+
+### [Transform](Transform/README.md)
+
+### [Quaternion](Quaternion/README.md)
+
+### [Ray](Ray/README.md)
+
+### [Input](Input/README.md)
+
+### [UI](UI/README.md)
+
+* Canvas, Rect Transform, Text, Button, ScrolBar, Image
+
+### [Graphics](Graphics/README.md)
+
+* Lighting, Shaders, Shader Graph
+
+### [Camera](Camera/README.md)
+
+### [Cursor](Cursor/README.md)
+
+### [Mouse Look](Mouse%20Look/README.md)
+
+### [Custom Inspector](Custom%20Inspector/README.md)
+
+### [TileMap](TileMap/README.md)
+
+### [Material](Material/README.md)
+
+### [Particle System](Particle%20System/README.md)
+
+### [Mecanim](Mecanim/README.md)
+
+### [Scriptable Object](Scriptable%20Object/README.md)
+
+### [Multiplayer](Multiplayer/README.md) 
+
+* Multiplayer, Unet, Socket
+
+### [Optimization](Optimization/README.md)
+
+### [First Person Controller](First%20Person%20Controller/README.md)
+
+### [Assets](Assets/README.md) 
+
+### [Practice](Practice/README.md)
+
+### [Planet](Planet/README.md)
+
+* Star, Planet, Galaxy 星球
+
+### [Blender](Blender/README.md)
+
+### [Android](Android/README.md)
+
+### [Unit Testing](Unit%20Testing/README.md)
+
+### [Ludology](Ludology/README.md)
+
+* Game studies, Ludology 遊戲學
+
