@@ -1,10 +1,10 @@
 # MyLib_Unity_WebShare
 
-Websites collection related to Unity. 與 Unity 有關的網站收集。
+Websites collection related to Unity. 與 Unity 有關的網站收集
 
 ___
 
-Contributions are welcome. 歡迎進行貢獻。
+Contributions are welcome. 歡迎貢獻
 
 You can view the [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1) or fork + push request to request a change.
 
@@ -12,13 +12,13 @@ You can view the [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1)
 
 ---
 
-## The following is the index: 以下是索引：
+## The following is the index: 以下索引：
 
 ### [Unity](Unity/README.md)
 
 ### [Tutorial](Tutorial/README.md)
 
-### [C#](C\#/README.md)
+### [C#](C%23/README.md)
 
 ### [Script](Script/README.md)
 
