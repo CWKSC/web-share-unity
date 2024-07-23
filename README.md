@@ -1,16 +1,6 @@
-# MyLib_Unity_WebShare
+# web-share-unity
 
 Websites collection related to Unity. 與 Unity 有關的網站收集
-
-___
-
-Contributions are welcome. 歡迎貢獻
-
-You can view the [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1) or fork + push request to request a change.
-
-你可以查看 [issue](https://github.com/CWKSC/MyLib_Unity_WebShare/issues/1) 或者 fork + push request 的方式請求修改。
-
----
 
 ## The following is the index: 以下索引：
 
